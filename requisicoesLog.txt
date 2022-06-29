@@ -1,0 +1,9 @@
+O usuário IP: ::1 acessou a rota GET /sobre cod status htp: 200 as 2022-06-06T23:42:34.891Z
+O usuário IP: ::1 acessou a rota GET /registrar cod status htp: 200 as 2022-06-07T00:05:31.540Z
+O usuário IP: ::1 acessou a rota GET /registrar cod status htp: 200 as 2022-06-07T00:28:10.971Z
+O usuário IP: ::1 acessou a rota GET /registrar cod status htp: 200 as 2022-06-07T00:28:30.104Z
+O usuário IP: ::1 acessou a rota GET /registrar cod status htp: 200 as 2022-06-07T00:28:42.156Z
+O usuário IP: ::1 acessou a rota GET /registrar cod status htp: 200 as 2022-06-07T00:29:04.723Z
+O usuário IP: ::1 acessou a rota GET /registrar cod status htp: 200 as 2022-06-07T00:29:07.841Z
+O usuário IP: ::1 acessou a rota GET /registrar cod status htp: 200 as 2022-06-07T00:30:13.922Z
+O usuário IP: ::1 acessou a rota GET /registrar cod status htp: 200 as 2022-06-07T00:57:03.912Z
